@@ -291,7 +291,7 @@ career_goal: "Backend Software Engineer → AI Engineer"
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=hemilrawal&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hemilrawal&hide_border=true&theme=tokyonight&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=hemilrawal&hide_border=true&theme=tokyonight&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 
 <br/>
 
