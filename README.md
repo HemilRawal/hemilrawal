@@ -36,8 +36,9 @@
 
 <!-- ───────────────────────────── SOCIAL BADGES ─────────────────────────────── -->
 
+<a href="https://hemil-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c0caf5?style=for-the-badge&logo=vercel&logoColor=9ece6a&labelColor=1a1b27" alt="Portfolio" /></a>
 <a href="mailto:hemilrawal0@gmail.com"><img src="https://img.shields.io/badge/Email-c0caf5?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b27" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/hemil-rawal-03111935a"><img src="https://img.shields.io/badge/LinkedIn-c0caf5?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hemil-rawal-03111935a"><img src="https://img.shields.io/badge/LinkedIn-c0caf5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+&labelColor=1a1b27" alt="LinkedIn" /></a>
 <a href="https://github.com/hemilrawal"><img src="https://img.shields.io/badge/GitHub-c0caf5?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b27" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/hemil__/"><img src="https://img.shields.io/badge/LeetCode-c0caf5?style=for-the-badge&logo=leetcode&logoColor=ffa116&labelColor=1a1b27" alt="LeetCode" /></a>
 
@@ -351,10 +352,15 @@ I'm open to **backend / AI engineering internships**, **open-source collaboratio
 
 <br/>
 
+<a href="https://hemil-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-hemil--portfolio.vercel.app-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Portfolio" /></a>
+
+<br/>
+
 <a href="mailto:hemilrawal0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/hemil-rawal-03111935a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hemil-rawal-03111935a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+&labelColor=1a1b27" alt="LinkedIn" /></a>
 <a href="https://github.com/hemilrawal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/hemil__/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b27" alt="LeetCode" /></a>
+<a href="https://hemil-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
 <br/>
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef" />
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1b27" alt="GFG" />
@@ -379,6 +385,6 @@ I'm open to **backend / AI engineering internships**, **open-source collaboratio
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=140&section=footer" width="100%" />
 
-⭐️ _From [Hemil Rawal](https://github.com/hemilrawal) — thanks for scrolling all the way down._
+⭐️ _From [Hemil Rawal](https://github.com/hemilrawal) — thanks for scrolling all the way down. See more at my [portfolio](https://hemil-portfolio-nine.vercel.app/)._
 
 </div>
